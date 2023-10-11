@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calc/static/css/main.a3b4a496.css",
-    "main.js": "/calc/static/js/main.d0c3a4e7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/calc/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/calc/index.html",
-    "main.a3b4a496.css.map": "/calc/static/css/main.a3b4a496.css.map",
-    "main.d0c3a4e7.js.map": "/calc/static/js/main.d0c3a4e7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/calc/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/physics-lab-001/static/css/main.a3b4a496.css",
+    "main.js": "/physics-lab-001/static/js/main.476cfbee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/physics-lab-001/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/physics-lab-001/index.html",
+    "main.a3b4a496.css.map": "/physics-lab-001/static/css/main.a3b4a496.css.map",
+    "main.476cfbee.js.map": "/physics-lab-001/static/js/main.476cfbee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/physics-lab-001/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b4a496.css",
-    "static/js/main.d0c3a4e7.js"
+    "static/js/main.476cfbee.js"
   ]
 }
